@@ -1,6 +1,13 @@
 body {
   margin: 0;  
-  background-color: rgb(233, 227, 227);
+  background-color: rgba(17, 1, 1, 0.822);
 }
 
+.overflowing{
+  overflow: auto
+}
+
+.warlock-size{
+  height: 120px
+}
 
