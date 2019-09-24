@@ -3,11 +3,12 @@ body {
   background-color: rgba(17, 1, 1, 0.822);
 }
 
-.overflowing{
-  overflow: auto
+.blog, .stats {
+  background-color: rgba(17, 1, 1, 0.822);
 }
 
-.warlock-size{
-  height: 120px
+.overflowing{
+  overflow: auto;
 }
+
 
