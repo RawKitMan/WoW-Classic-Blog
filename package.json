@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "concurrently": "^6.1.0",
+    "glob-parent": "^5.1.2",
     "nodemon": "^1.19.4"
   },
   "scripts": {
